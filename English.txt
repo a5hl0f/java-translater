@@ -1,0 +1,13 @@
+Menu: Please choose an option (0:Exit, 1:Add flat, 2:List flats, 3:Delete flat, 4:Search)
+#Choice:
+#Please enter an address:
+#Please enter the comfort level:
+#Please enter the area:
+#Please enter the price:
+New flat was created succeccfully!
+Available flats:
+Please choose the ID of the flat you would like to delete:
+Flat delete successfully!
+ERROR :ID incorrect!
+Please enter your budget:
+Available flats with price that suits you:

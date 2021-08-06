@@ -1,0 +1,13 @@
+Menu: Scegli un'opzione (0: Esci, 1: Aggiungi appartamento, 2: Elenco appartamenti, 3: Elimina appartamento, 4: Cerca)
+#Scelta:
+#Inserisci un indirizzo:
+# Inserisci il livello di comfort:
+#Per favore entra nell'area:
+#Inserisci il prezzo:
+Il nuovo appartamento è stato creato con successo!
+Appartamenti disponibili:
+Scegli l'ID dell'appartamento che desideri eliminare:
+Eliminazione fissa con successo!
+ERRORE: ID non corretto!
+Inserisci il tuo budget:
+Appartamenti disponibili con il prezzo che fa per te:
